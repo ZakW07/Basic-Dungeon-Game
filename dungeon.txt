@@ -1,0 +1,3 @@
+Crypt:A dark room filled with spiderwebs
+Hallway:A long stone corridor with torches
+Kitchen:It smells like rotting meat
